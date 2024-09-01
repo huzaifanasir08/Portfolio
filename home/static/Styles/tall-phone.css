@@ -1,0 +1,114 @@
+header {
+    padding: 0;
+    height: 45px;
+    align-items: center;
+}
+#side-bar{
+    top: 15px;
+}
+#side-bar ul li {
+    font-size: 12px;
+    padding: 5px 15px;
+}
+/* ///////////////Education////////////////////// */
+
+.education, .courses {
+    margin: 15px;
+    padding: 15px 20px;
+}
+
+/* ///////////////Skills////////////////////// */
+#programming-sector {
+    padding: 20px 10px 0 10px;
+}
+
+#programming-sector .skill-level {
+    margin-top: 10px;
+}
+#skills-sector .main-heading {
+    color: white;
+    margin-bottom: 0px;
+    padding-top: 20px;
+}
+.skill-name {
+    font-size: 1.7rem;
+}
+
+#skills .box img {
+    height: 170px;
+}
+#skills .box p {
+    margin-top: 10px;
+    font-size: .9rem;
+}
+
+.project-list {
+    grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+    gap: 0;
+    row-gap: 35px;
+}
+.project-info {
+    padding: 10px;
+}
+.project-name {
+    font-size: max(2vw, 21px);
+}
+
+.project-des {
+    margin-top: 10px;
+    font-weight: 400;
+}
+
+.project-tech {
+    font-size: max(0.8vw, 9px);
+    margin-top: 5px;
+    font-weight: 300;
+}
+.name {
+    margin-top: 5px;
+    font-size: .7rem;
+}
+.btn-p {
+    width: 80px;
+    font-size: .7rem;
+    border-radius: 10px;
+    align-self: center;
+    margin: 5px 0;
+}
+/* Contact Section */
+
+
+.info {
+    padding: 20px 0;
+}
+.info-item p {
+    font-size: .7rem;
+}
+.info a {
+    font-size: .7rem;
+}
+.info img {
+    height: 20px;
+}
+
+
+#indicators {
+    margin-top: 10px;
+}
+
+#indicators .indicator {
+    width: 5px;
+    height: 5px;
+}
+
+#indicators .indicator.active {
+    width: 7px;
+    height: 7px;
+}
+
+
+
+footer div {
+    font-size: .7rem;
+    padding: 9px 0px;
+}

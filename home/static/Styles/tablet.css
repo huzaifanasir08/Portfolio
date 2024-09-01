@@ -1,0 +1,122 @@
+#navbar {
+    margin-right: 25px;
+}
+#navbar ul li {
+    font-size: 23px;
+    padding: 0px 10px;
+}
+
+
+
+
+.firstSection {
+    height: 60vh;
+}
+.firstSection > div {
+    margin-left: 45px;
+}
+.leftSection h5 {
+    font-size: 1.5rem;
+}
+
+.leftSection #name h1 {
+    font-size: 3rem;
+}
+.rightSection #logo-m {
+    width: 70%;
+}
+/*//////////////////////////// Education Section ///////////////////////// */
+.p-primary {
+    font-size: 1.2rem;
+    margin: 20px 0 10px 0;
+}
+
+.p-secondary {
+    font-weight: bold;
+    font-size: 1.3rem;
+    margin: 0 0 10px 0;
+}
+
+.p-third {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin: 0 0 10px 0;
+}
+
+.p-fourth {
+    /* font-weight: bold; */
+    font-size: .9rem;
+    /* font-weight: bold; */
+}
+.item h2{
+    font-size: 1.3rem;
+ }
+.item ul{
+    font-size: .9rem;
+ }
+/*//////////////////////////// Courses Section ///////////////////////// */
+
+
+.progress-container {
+    width: 90%;
+}
+
+#skills-sector {
+    margin:0;
+}
+#skills-sector .main-heading {
+    color: white;
+    margin-bottom: 40px;
+}
+
+#skills {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.skill-name {
+    font-size: 2.4rem;
+    margin-top: 10px;
+}
+
+#skills .box img {
+    height: 193px;
+    margin: auto;
+    display: block;
+}
+#skills .box p {
+    margin-top: 10px;
+    font-size: 1.4rem;
+}
+
+.recent-projects {
+    padding: 0;
+}
+.details {
+    padding: 1px 0 5px 12px;
+}
+.name {
+    margin-top: 5px;
+        font-size: .8rem;
+}
+.btn-p {
+    width: 80px;
+        font-size: .7rem;
+        border-radius: 10px;
+        align-self: center;
+        margin: 5px 0;
+}
+
+
+
+
+.main-heading {
+    font-size: 3.5rem;
+}
+.btn {
+    padding: 6px 6px;
+    width: 100px;
+    font-size: 1rem;
+    margin-top: 30px;
+    
+}

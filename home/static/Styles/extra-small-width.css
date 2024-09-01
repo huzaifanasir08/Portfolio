@@ -1,0 +1,100 @@
+.firstSection {
+    height: 70vh;
+}
+.firstSection > div{
+    width: 40%;
+    margin-left: 0px;
+}
+.leftSection h5{
+    font-size: 1.7rem;
+}
+.leftSection #name h1{
+    font-size: 3.4rem;
+}
+.rightSection img{
+    width: 75%;
+}
+.btn {
+    padding: 6px 6px;
+    width: 110px;
+    font-size: 1.2rem;
+    margin-top: 20px;  
+}
+#skills {
+    grid-template-columns: auto auto auto;
+}
+#skills .box img {
+    height: 150px;
+    margin: auto;
+    display: block;
+}
+
+.skill-name {
+    font-size: 1.4rem;
+}
+#skills .box p {
+    font-size: 0.9rem;
+}
+
+/* Projects Section */
+
+
+.project-sector-container {
+    padding: 35px 0;
+}
+
+
+.project-list {
+    grid-template-columns: repeat(auto-fill, minmax(316px, 1fr));
+    gap: 0;
+    row-gap: 35px;
+}
+
+.project-img-container img {
+    width: 100%;
+
+}
+
+.project-info {
+    color: rgb(0, 0, 0);
+    padding: 20px;
+}
+
+
+.project-des {
+    margin-top: 10px;
+    font-weight: 400;
+}
+
+.project-tech {
+    font-size: max(0.8vw, 9px);
+    margin-top: 5px;
+    font-weight: 300;
+}
+
+.more {
+    width: max(20vw, 90px);
+    font-size: max(3vw, 15px);
+    border-radius: 16px;
+    margin-top: 10px;
+}
+
+
+.pic img {
+    width: 100%;
+}
+.contact-section {
+    padding: 20px 0;
+}
+
+.info-item p {
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: .8rem;
+}
+.info img {
+    height: 20px;
+}
+.info a {
+    font-size: .8rem;
+}

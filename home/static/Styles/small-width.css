@@ -1,0 +1,16 @@
+
+/* First Section */
+
+.firstSection {
+    height: 70vh;
+}
+.firstSection > div{
+    width: 40%;
+    margin-left: 100px;
+}
+.leftSection #name h1{
+    font-size: 3.7rem;
+}
+.rightSection img{
+    width: 75%;
+}

@@ -1,0 +1,94 @@
+header {
+    padding: 20px 0px;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;  
+    height: 20px;
+}
+header .logo {
+    font-size: 20px;
+    margin-left: 0px;
+}
+
+#navbar {
+    margin-right: -20px;
+}
+#navbar ul li {
+    font-size: 15px;
+}
+
+
+
+.firstSection {
+    height: 60vh;
+}
+.firstSection > div {
+    margin-left: 20px;
+}
+.leftSection h5 {
+    font-size: 1.1rem;
+}
+
+.leftSection #name h1 {
+    font-size: 2.7rem;
+}
+.rightSection #logo-m {
+    width: 100%;
+}
+/*//////////////////////////// Education Section ///////////////////////// */
+
+.p-primary {
+    font-size: 1rem;
+    margin: 20px 0 10px 0;
+}
+
+.p-secondary {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin: 0 0 10px 0;
+}
+
+.p-third {
+    font-weight: bold;
+    font-size: 1rem;
+    margin: 0 0 10px 0;
+}
+
+.p-fourth {
+    /* font-weight: bold; */
+    font-size: .7rem;
+    /* font-weight: bold; */
+}
+.item h2{
+    font-size: 1.1rem;
+ }
+.item ul{
+    font-size: .7rem;
+ }
+ #indicators {
+    margin-top: 15px;
+}
+
+#indicators .indicator {
+    width: 7px;
+    height: 7px;
+}
+
+#indicators .indicator.active {
+    width: 9px;
+    height: 9px;
+}
+
+.main-heading {
+    font-size: 3rem;
+}
+.btn {
+    padding: 6px 6px;
+    width: 80px;
+    font-size: 0.8rem;
+    margin-top: 20px;
+}
+footer div {
+    font-size: 1rem;
+    padding: 9px 20px;
+}
